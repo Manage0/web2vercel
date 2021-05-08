@@ -1,0 +1,67 @@
+body{
+    color: white;
+    background-image: url('./images/background.jpg');
+    font-size: large;
+}
+
+button{
+    border: 5px wheat dotted;
+    background-color: teal;
+    font-size: large;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+    border-width: 5px;
+    border: solid;
+    margin: 5px;
+}
+
+.login{
+    display: inline-block;
+    padding:5px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.register{
+    display: inline-block;
+    text-align: center;
+    padding:5px;
+}
+
+.publicdata{
+    padding:5px;
+    text-align: center;
+}
+
+#login{
+    padding: auto;
+    margin: auto;
+    max-width: fit-content;
+}
+
+#mainTxt{
+    padding: 15px;
+    min-width: fit-content;
+}
+
+Link{
+    text-decoration: none;
+}
+
+#serverHeader{
+    text-align: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #260716;
+    color: #29e085;
+    font-weight: 100;
+}
